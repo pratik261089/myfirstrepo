@@ -1,11 +1,13 @@
 
 public class Add_Numbers {
 	
-	public static void addnumbers(int a, int b ) {
+	public static int addnumbers(int a, int b ) {
 		
 		int sum = a+b;
 		
 		System.out.println(sum);
+		
+		return sum;
 		
 	}
 
