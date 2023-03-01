@@ -6,7 +6,7 @@ public static void diffnumbers(int a, int b ) {
 		int sum = a-b;
 		
 		System.out.println(sum);
-	     int return = sum;
+	   
 		
 	}
 
